@@ -1,0 +1,1 @@
+# PoC for redux-like state store using asynchonorus generators
